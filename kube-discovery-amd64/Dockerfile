@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-discovery-amd64:1.0
-MAINTAINER mritd <mritd@mritd.me>
+FROM gcr.io/google_containers/kube-discovery-amd64:latest
+MAINTAINER dingchuang <359594776@qq.com>
