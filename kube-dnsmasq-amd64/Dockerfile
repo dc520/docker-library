@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-dnsmasq-amd64:1.4
-MAINTAINER mritd <mritd@mritd.me>
+FROM gcr.io/google_containers/kube-dnsmasq-amd64:latest
+MAINTAINER dingchuang <359594776@qq.com>
